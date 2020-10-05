@@ -2,7 +2,7 @@
     "name": "nfacha/docker-api",
     "description": "PHP Class to interact with Docker's REST API",
     "type": "library",
-    "license": "GNU AFFERO GENERAL PUBLIC LICENSE",
+    "license": "AGPL-3.0-or-later",
     "authors": [
         {
             "name": "Nuno Facha",
