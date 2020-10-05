@@ -1,5 +1,6 @@
 {
     "name": "nfacha/docker-api",
+    "version": "1.0",
     "description": "PHP Class to interact with Docker's REST API",
     "type": "library",
     "license": "AGPL-3.0-or-later",
